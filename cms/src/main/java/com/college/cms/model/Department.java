@@ -1,4 +1,4 @@
-package com.college.cms.model;
+/*package com.college.cms.model;
 
 import jakarta.persistence.*;
 import lombok.*;
@@ -25,5 +25,5 @@ public class Department {
     @OneToMany(mappedBy = "department", cascade = CascadeType.ALL, orphanRemoval = true)
     private List<Student> students;
 }
-
+*/
 

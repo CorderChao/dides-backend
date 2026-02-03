@@ -1,4 +1,4 @@
-package com.college.cms.dto;
+/*package com.college.cms.dto;
 
 import jakarta.validation.constraints.*;
 import lombok.*;
@@ -26,3 +26,4 @@ public class StudentDTO {
     @NotNull(message = "Department ID is required")
     private Long departmentId;
 }
+*/

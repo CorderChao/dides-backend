@@ -1,4 +1,4 @@
-package com.college.cms.dto;
+/*package com.college.cms.dto;
 
 import jakarta.validation.constraints.NotBlank;
 import jakarta.validation.constraints.Size;
@@ -24,3 +24,4 @@ public class DepartmentDTO {
 
     private List<StudentDTO> students;
 }
+*/
